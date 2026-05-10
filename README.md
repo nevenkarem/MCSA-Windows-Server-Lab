@@ -1,19 +1,15 @@
-MCSA Windows Server Lab
-
+🖥️ MCSA Windows Server Lab
 📌 Project Overview
 
 This project demonstrates a complete Windows Server lab environment built using Virtual Machines.
 The lab simulates a small enterprise network with a Domain Controller, Active Directory, DHCP, Group Policy, File Server, and a Windows 10 client joined to the domain.
 
 🖥️ Lab Environment
-
 Windows Server (Domain Controller)
 Windows 10 Client Machine
 VirtualBox / VMware Lab
-
 ⚙️ Services Implemented
-
-1️⃣ Active Directory Domain Services (ADDS)
+1️⃣ Active Directory Domain Services (AD DS)
 Installed and configured Domain Controller (PDC19)
 Created Organizational Units (OUs)
 Created Domain Users and Groups
@@ -33,19 +29,15 @@ Tested access from client machine
 5️⃣ Domain Join
 Joined Windows 10 machine to the domain
 Verified connectivity using ping and domain login
-
 🧪 Network Scenario
-
 Domain Name: test.local
 Server IP: 192.168.1.2
 Client Machine: Windows 10 joined to domain
-
 📷 Screenshots
 
-All lab screenshots are available inside the Project MCSA folder. 
+All lab screenshots are available inside the Project MCSA folder.
 
 🎯 Skills Demonstrated
-
 Active Directory Administration
 Group Policy Configuration
 DHCP Management
