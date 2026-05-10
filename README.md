@@ -88,4 +88,19 @@ The lab simulates a small enterprise network with a Domain Controller, Active Di
 - DHCP Management  
 - File Server Management  
 - Domain Networking  
-- Windows Server Administration  
+- Windows Server Administration
+- ---
+
+## Project Structure
+
+- **Windows Server:** Windows Server 2019  
+- **Client OS:** Windows 10  
+- **Virtualization:** VMware Workstation  
+- **Domain Name:** test.local
+- ---
+
+## Conclusion
+
+This project simulates a real corporate IT environment
+using Windows Server and Active Directory.
+It demonstrates the core skills required for IT Support roles.
