@@ -9,7 +9,7 @@ The lab simulates a small enterprise network with a Domain Controller, Active Di
 ## 🖥️ Lab Environment
 - Windows Server (Domain Controller)  
 - Windows 10 Client Machine  
-- VirtualBox / VMware Lab  
+- Virtual Machine (VMware Workstation)  
 
 ---
 
